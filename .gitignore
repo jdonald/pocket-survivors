@@ -1,0 +1,30 @@
+# Pocket Survivors is a single static HTML file served directly by GitHub Pages.
+# There is no build step, so there is little to ignore — these are just the
+# usual bits of OS / editor / tooling cruft that should never be committed.
+
+# macOS / Windows / Linux file-manager junk
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs & temp
+*.log
+*.tmp
+.cache/
+
+# Node tooling (only if a formatter/linter is ever added later)
+node_modules/
+npm-debug.log*
+yarn-error.log*
+.env
+.env.local
