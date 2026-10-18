@@ -6,6 +6,11 @@ Zubats on the plains, auto-attack, scoop up Poké Balls, and level up.
 
 **▶ Play it:** https://jdonald.github.io/pocket-survivors/
 
+<div style="display: flex; justify-content: space-between;">
+    <img src="screenshot1.png" style="width: 48%;" alt="Ash on the plains, thunder aura zapping a ring of Zubats"/>
+    <img src="screenshot2.png" style="width: 48%;" alt="Goh surrounded by a dense swarm of Zubats and Golbats"/>
+</div>
+
 It's a single self-contained `index.html` — no build step, no dependencies, no
 assets to load. Everything (sprites, sound, logic) is drawn/generated in the
 browser with the Canvas API and a little WebAudio, so it works offline and loads
